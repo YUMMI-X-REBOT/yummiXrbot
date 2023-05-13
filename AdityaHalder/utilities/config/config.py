@@ -1,4 +1,4 @@
-# Powered By @AdityaHalder
+# Powered By @ritik_raj496
 
 import os
 import re
@@ -86,12 +86,12 @@ autoclean = []
 LOG = 2
 YTDOWNLOADER = 1
 BANNED_USERS = filters.user()
-LOG_FILE_NAME = "adityalogs.txt"
+LOG_FILE_NAME = "Yummilogs.txt"
 ############################
 
 
-# All Images Of Aditya Player // @AdityaHalder
-START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/file/c6e1041c6c9a12913f57a.png")
+# All Images Of Yummi Player // @ritik_raj496
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/e668d54188d8fccb75dbb.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "AdityaHalder/resource/ping.jpeg")
 PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "AdityaHalder/resource/playlist.jpeg")
 GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "AdityaHalder/resource/global.jpeg")
