@@ -58,10 +58,10 @@
             "required": false,
             "value": "https://t.me/YummiSport"
         }
-        "START_IMG_URL": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑺𝒕𝒂𝒓𝒕 𝑰𝒎𝒈 𝑼𝒓𝒍 ",
-            "required": true
-        },
+
+
+
+
     },
     "addons": [],
     "buildpacks": [
